@@ -1,0 +1,13 @@
+Propiedad,Acero AISI 4340 (Templado)
+Módulo de Young (E),205 GPa
+Coeficiente de Poisson,0.29
+Límite Elástico,910 MPa
+Resistencia a la Tracción,1050 MPa
+Densidad,7850 kg/m3
+,
+Ciclos (Cycles),Esfuerzo Alternante (Pa)
+1000,750000000
+10000,620000000
+100000,510000000
+1000000,450000000
+10000000,450000000
